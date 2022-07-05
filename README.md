@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arihant Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="55%"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant522&label=Profile%20views&color=0e75b6&style=flat" alt="arihant522" /> </p>
 
@@ -10,13 +9,19 @@
 
 - 📫 How to reach me **connectwitharihant@gmail.com**
 
+- 📄 Know about my experiences <a href src="https://drive.google.com/file/d/1mii-nywFRJb8C4TA4oIjRIJUh2Gv7GXq/view?usp=drivesdk">Resume Link</a>
+
 - ⚡ Fun fact **I think I have a great sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arihant19541990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arihant19541990" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arihant-jain-b93b2a19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arihant-jain-b93b2a19a" height="30" width="40" /></a>
+<a href="https://instagram.com/arihantjain502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arihantjain502" height="30" width="40" /></a>
+<a href="https://medium.com/@arjain020502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arjain020502" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arjain020502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjain020502" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/arihant_123jain-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arihant_123jain-/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arjain020502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjain020502" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
