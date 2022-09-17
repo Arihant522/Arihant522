@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://drive.google.com/file/d/1mii-nywFRJb8C4TA4oIjRIJUh2Gv7GXq/view?usp=drivesdk" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **connectwitharihant@gmail.com**
 
