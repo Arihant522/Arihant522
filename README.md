@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Arihant05Jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arihant19541990" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arihant-jain-b93b2a19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arihant-jain-b93b2a19a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arihantjain05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arihant-jain-b93b2a19a" height="30" width="40" /></a>
 <a href="https://instagram.com/arihantjain502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arihantjain502" height="30" width="40" /></a>
 <a href="https://medium.com/@arjain020502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arjain020502" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arjain020502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjain020502" height="30" width="40" /></a>
